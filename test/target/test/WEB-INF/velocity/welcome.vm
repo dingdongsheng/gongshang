@@ -1,0 +1,10 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+		<title> Hello World 你好</title>
+	</head>
+	<body>
+		<p>Welcome,$message,hh</p>
+	</body>
+</html>

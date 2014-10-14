@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;  charset=UTF-8" />
+        <meta name="description" content="阿里巴巴 质量保证"/>
+        <title>在彼岸-首页-所有项目</title>
+        <base target="_blank"></base>
+    </head>
+<body>
+    <!-- layout header end -->
+    <!-- layout content begin -->
+    <div class="gaea-new-layout-content layout-content container-fluid">
+        <div class="row-fluid gaea-row-center">
+            <div class="main-detail span12">
+                <!-- layout main box begin -->
+                <div class="gaea-new-main-detail main-detail-box">
+                    <span>hello world</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

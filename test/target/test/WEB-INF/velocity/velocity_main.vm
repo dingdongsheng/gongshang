@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+		<meta name="description" content="工商大学 人事管理系统" />
+		<title>浙江工商大学人事管理系统</title>
+		<link rel="stylesheet" src="/WEB-INF/velocity/bootstrap.min.css"></link>
+		<base target="_blank"></base>
+			    <script type=text/javascript src="../js/main.js"></script>
+	    <script type=text/javascript src="../js/jquery.min.1.9.1.js"></script>
+	    <script type=text/javascript src="js/bootstrap.min.js"></script>
+	</head>
+	<body>
+		<div class="gaea-new-layout-header">
+    	<div class="beyond-new-header">
+        	<a href="#" target="_self"><i class="gaea_icon_new_header_logo"></i></a>
+
+	    	<ul class="nav beyond-ul-nav">
+		        <li class="beyond-li-nav">
+		            <a href="#" title="" target="_self" class="beyond-lnk-nav "><i class="icon-home icon-large"></i>首页</a>
+		        </li>
+				<li class="dropdown beyond-li-nav">
+		            <a href=""  data-toggle="dropdown" target="_self"  class="beyond-lnk-nav">
+		                	<i class="icon-search"></i>人事档案&nbsp<i class="icon-caret-down"></i>
+		            </a>
+		            <ul class="dropdown-menu">
+		                <li>
+		                    <a href="#" target="_self">职务体系</a>
+		                </li>
+		                <li>
+		                    <a href="#" target="_self">员工入职</a>
+		                </li>
+		                <li>
+		                	<a href="#" target="_self">档案管理</a>
+		                </li>
+		                <li>
+		                    <a href="#" target="_self">劳动合同</a>
+		                </li>
+		                 <li>
+		                    <a href="#" target="_self">离职清算</a>
+		                </li>
+		
+		            </ul>
+	        	</li>
+	
+				<li class="dropdown beyond-li-nav">
+		            <a href=""  title="薪酬管理" data-toggle="dropdown" target="_self"  class="beyond-lnk-nav">
+		                <i class="icon-eye-open"></i>&nbsp薪酬管理&nbsp<i class="icon-caret-down"></i>
+		            </a>
+		            <ul class="dropdown-menu">
+		                <li>
+		                    <a href="#" target="_self">标准薪酬</a>
+		                </li>
+						 <li>
+		                    <a href="#" target="_self">薪酬调整</a>
+		                </li>
+						<li>
+		                    <a href="#" target="_self">薪酬核算</a>
+		                </li>
+		                <li>
+		                    <a href="#" target="_self">薪酬发放管理</a>
+		                </li>
+		                <li>
+		                    <a href="#" target="_self">薪酬报表</a>
+		                </li>
+		            </ul>
+		        </li>
+		        <li class="dropdown beyond-li-nav">
+		        	<a href=""  title="保险管理" data-toggle="dropdown" target="_self"  class="beyond-lnk-nav">
+		                <i class="icon-eye-open"></i>&nbsp保险管理&nbsp<i class="icon-caret-down"></i>
+		            </a>
+		            <ul class="dropdown-menu">
+		            	<li>
+		            		<a href="#" target="_self">社保管理</a>
+	            		</li>
+            		</ul>
+        		</li>
+		        <li class="dropdown beyond-li-nav">
+		        	<a href=""  title="综合服务" data-toggle="dropdown" target="_self"  class="beyond-lnk-nav">
+		                <i class="icon-eye-open"></i>&nbsp综合服务&nbsp<i class="icon-caret-down"></i>
+		            </a>
+		            <ul class="dropdown-menu">
+		            	<li>
+		            		<a href="#" target="_self">数据统计</a>
+	            		</li>
+		            	<li>
+		            		<a href="#" target="_self">报表统计</a>
+	            		</li>
+		            	<li>
+		            		<a href="#" target="_self">代办提醒</a>
+	            		</li>
+		            	<li>
+		            		<a href="#" target="_self">预警信息</a>
+	            		</li>
+		            	<li>
+		            		<a href="#" target="_self">个人信息</a>
+	            		</li>
+	            		<li>
+		            		<a href="#" target="_self">系统配置</a>
+	            		</li>
+            		</ul>
+        		</li>
+	        </ul>
+	        </div>
+	       </div>
+	       
+	       
+	    <div>
+	    	<span>hello world</span>
+	    	<button id="test" name="test" />
+    	</div>   
+    	
+    	
+	    <div class="gaea-new-layout-footer">
+	        <footer>
+	        	<div id="lr_systembox">
+					<a id="lr_systembtn" href="javascript:void(0)" target="_self">常用链接</a>
+					<span>&nbsp;&copy;2013 技术质量部 版权所有</span>
+					&nbsp;&nbsp;<a target="_blank" href="mailto:li.linl@alibaba-inc.com"><i class="icon-envelope"></i>联系我们</a>
+					&nbsp;<a href="$homeModule.setTarget('doc.htm')" target="_blank"><i class="icon-bookmark-empty"></i>关于在彼岸</a>
+					<span>&nbsp;交流群：895314184</span>
+					</br><span style="color:#fff">$localAddress</span>
+			    </div>
+        	</footer>
+
+	    </div>
+
+
+	</body>
+</html>
